@@ -4,7 +4,7 @@ build-backend = "setuptools.build_meta"
 
 [project]
 name = "latex-pdf-size-optimizer"
-version = "0.1.0"
+version = "0.1.1"
 description = "A tool to optimize LaTeX projects by converting images and compressing PDFs."
 readme = "README.md"
 authors = [

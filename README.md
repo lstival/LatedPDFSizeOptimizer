@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://raw.githubusercontent.com/lstival/LatedPDFSizeOptimizer/main/icon_latex_optimize.png" alt="LatexPDFSizeOptimizer Icon" width="200"/>
+</p>
+
 # LatexPDFSizeOptimizer
 
 A tool to optimize LaTeX projects by converting vector graphics to JPG, pre-compiling TikZ figures, and compressing the final PDF.
